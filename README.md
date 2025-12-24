@@ -37,14 +37,12 @@ Dieses Template hilft dir dabei:
 
 ## 📋 Inhaltsverzeichnis
 
+- [Ziel des Templates](#-ziel-des-templates)
 - [Warum dieses Template?](#-warum-dieses-template)
 - [Erste Schritte](#-erste-schritte)
 - [Projektstruktur](#-projektstruktur)
-- [Tech-Stack & Entscheidungen](#-tech-stack--entscheidungen)
-- [Agenten & Regelwerk (.agents)](#-agenten--regelwerk-agents)
-- [Changelog & SBOM](#-changelog--sbom)
-- [DevContainers (Optional)](#-devcontainers-optional)
-- [English Version](#-antigravity-vibe-template-english-version)
+- [Agent-Konfiguration (.agents)](#-agent-konfiguration-agents)
+- [DevContainers](#-devcontainers)
 
 ---
 
@@ -97,3 +95,17 @@ project-root/
 └── README.md
 ```
 
+---
+## 🤖 Agent-Konfiguration (./.agents/)
+
+Dieser Ordner ist dein wichtigstes Tool. Er verhindert, dass Antigravity Müll produziert.
+
+context.md: Hier sagst du der KI, was die Architektur ist. Kein Raten, nur Wissen.
+memory.md: Antigravity merkt sich hier deine Vorlieben. Einmal eingestellt, immer gewusst.
+rules/ & workflows/: Standardisiere deine Arbeit, damit du dich nicht mit Kleinkram aufhalten musst.
+
+
+## 🐳 DevContainers
+DevContainers sind nützlich, aber absolut nicht notwendig.
+
+Wenn du ein schnelles Solo-Projekt startest, lass sie einfach weg. Sie sind nur da, falls du eine isolierte Umgebung brauchst oder später doch jemanden zum Vibe Coding einlädst.
