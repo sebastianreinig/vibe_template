@@ -100,14 +100,19 @@ project-root/
 
 Dieser Ordner ist dein wichtigstes Tool. Er verhindert, dass Antigravity Müll produziert.
 
-context.md: Hier sagst du der KI, was die Architektur ist. Kein Raten, nur Wissen.
+context.md: Hier sagst du der KI, was die Architektur ist. Kein Raten, nur Wissen. Damit solltest du starten!
 
-memory.md: Antigravity merkt sich hier deine Vorlieben. Einmal eingestellt, immer gewusst.
+memory.md: Antigravity merkt sich hier deine Vorlieben. Einmal eingestellt, immer gewusst. Es ist z.B. hilfreich dort den aktuellen Entwicklungsstand zu merken. 
 
-rules/ & workflows/: Standardisiere deine Arbeit, damit du dich nicht mit Kleinkram aufhalten musst.
+rules/ & workflows/: Standardisiere deine Arbeit, damit du dich nicht mit Kleinkram aufhalten musst. Workflows helfen für Standards, Reglen helfen, damit Fehler vermieden werden, Codestanards eingehalten werden und und und. 
 
 
 ## 🐳 DevContainers
 DevContainers sind nützlich, aber absolut nicht notwendig.
 
 Wenn du ein schnelles Solo-Projekt startest, lass sie einfach weg. Sie sind nur da, falls du eine isolierte Umgebung brauchst oder später doch jemanden zum Vibe Coding einlädst.
+
+
+## Ein letzter Tipp
+AI kann dir wunderbar helfen Workflows, Rules, Memory, Kontext und Architektur aufzubauen. Ich würde immer damit starten! Danach lässt sich einfach code generieren. 
+
