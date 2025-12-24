@@ -113,6 +113,15 @@ DevContainers sind nützlich, aber absolut nicht notwendig.
 Wenn du ein schnelles Solo-Projekt startest, lass sie einfach weg. Sie sind nur da, falls du eine isolierte Umgebung brauchst oder später doch jemanden zum Vibe Coding einlädst.
 
 
-## Ein letzter Tipp
-AI kann dir wunderbar helfen Workflows, Rules, Memory, Kontext und Architektur aufzubauen. Ich würde immer damit starten! Danach lässt sich einfach code generieren. 
+## Tipps
 
+1. AI kann dir wunderbar helfen Workflows, Rules, Memory, Kontext und Architektur aufzubauen. Ich würde immer damit starten! Danach lässt sich einfach code generieren. 
+
+2. Wenn du merkst, dass immerwieder die gleichen Fehler gemacht werden -> erstelle dir eine Regel, die Abhilfe schafft.
+Beispielsweise habe ich gemerkt, dass immer wieder ein Terminalcommado ausgeführt wird, der gar nicht geht. Dies habe ich dann per Regelwerk verhindert. Das spart Zeit und Nerven.
+
+3. Schreibe dir eine Featureliste, versuche nicht zu viel aufeinmal.
+
+4. Teste ordentlich!
+
+5. tbc
