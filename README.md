@@ -101,7 +101,9 @@ project-root/
 Dieser Ordner ist dein wichtigstes Tool. Er verhindert, dass Antigravity Müll produziert.
 
 context.md: Hier sagst du der KI, was die Architektur ist. Kein Raten, nur Wissen.
+
 memory.md: Antigravity merkt sich hier deine Vorlieben. Einmal eingestellt, immer gewusst.
+
 rules/ & workflows/: Standardisiere deine Arbeit, damit du dich nicht mit Kleinkram aufhalten musst.
 
 
